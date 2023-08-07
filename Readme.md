@@ -10,4 +10,5 @@ sudo apt-get update
 sudo apt-get install libjsoncpp-dev
 ```
 
+Исходники фреймворка находятся [здесь](https://github.com/aok-buran/BMPF)
 
